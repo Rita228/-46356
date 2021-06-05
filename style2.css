@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background: 				
+				
+#DF6100;
+}
+h1{
+    text-align: center;
+    
+}
+.link-header{
+    text-decoration:none ;
+    border: 5px double #FFFF00;
+border-radius: 10px;
+margin: 20px;
+padding: 10px;
+ background:#33CCCC ;
+ color: white;  
+ 
+ 
+}
+footer{
+    background: #FFD300;
+    height: 150px;
+}
+.link-header:hover{
+    background:#FF7400 ; 
+    border: 5px double #510FAD;
+    box-shadow: 10px 15px 0 0 gold;
+   transition: 5s linear;
+   }
+header{
+background: #FFD700;
+height: 70px ;
+
+   }
+
+   footer{
+  background: #7109AA; 
+  height: 100px; 
+    }
+    ul{
+        color: white;
+    }
